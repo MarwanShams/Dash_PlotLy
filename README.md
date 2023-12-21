@@ -1,5 +1,7 @@
 this my dashboard for a airline dataset 
 and that's the results
+![7](https://github.com/MarwanShams/Dash_PlotLy/assets/142434135/b27db6ce-0b3b-44f9-b127-403eb544631e)
+
 ![6 vip](https://github.com/MarwanShams/Dash_PlotLy/assets/142434135/b165bcfd-2f5b-4c75-b495-32f030e80b67)
 ![5 vip](https://github.com/MarwanShams/Dash_PlotLy/assets/142434135/8cc1704b-ec39-429e-9869-ae4f0eacb6c6)
 ![4](https://github.com/MarwanShams/Dash_PlotLy/assets/142434135/20d84101-69ea-4659-80ed-3d3941522b54)
